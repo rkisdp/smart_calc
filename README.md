@@ -1,2 +1,2 @@
 # smart_calc
-Smart Calculator Python
+Python Smart Calculator 
